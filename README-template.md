@@ -24,11 +24,6 @@ This is a front-end mentor challenge that I took to test my knowledge and applic
 
 ![link to the screenshot of my screen](./images/Screenshot.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ### Built with
 
 - Semantic HTML5 markup
